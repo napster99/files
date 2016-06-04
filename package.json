@@ -1,0 +1,29 @@
+{
+  "name": "nap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "napster",
+  "license": "ISC",
+  "devDependencies": {
+    "connect-livereload": "latest",
+    "grunt": "latest",
+    "grunt-contrib-clean": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-connect": "latest",
+    "grunt-contrib-copy": "latest",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-contrib-htmlmin": "latest",
+    "grunt-contrib-imagemin": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-rev": "^0.1.0",
+    "grunt-usemin": "latest",
+    "matchdep": "latest",
+    "ngmshell": "latest",
+    "shelljs": "latest"
+  }
+}
